@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**Mrcristian1102/Mrcristian1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤔 About Me
 
-Here are some ideas to get you started:
+I'm a beginner developer with a strong interest in Python because it's simple yet powerful.
+I'm currently learning the fundamentals of programming and continuously improving my skills by practicing and building small projects.
+I'm passionate about growing as a developer and expanding my knowledge every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 Currently Learning
+- Python 
+- Basic Programming Concepts
+
+---
+
+## 🔭 Goals
+- Build real-world projects
+- Improve my problem-solving skills
+- Grow as a software developer
+
+---
+
+Thanks for visiting my profile!
